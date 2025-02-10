@@ -11,7 +11,7 @@ def main_menu():
         print("3. Visa sökhistorik")
         print("4. Avsluta programmet\n")
         menu_choice = input("Ditt val: ")
-
+h
         if menu_choice == "1":
             movies.search_specific_movie()
         elif menu_choice == "2":
